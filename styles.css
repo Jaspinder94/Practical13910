@@ -11,23 +11,23 @@ h2{
   background-color: brown;
   height: 250px;
   width: 250px;
-  margin-left: 250px;
+  margin-left: 0px;
 }
 #div2{
   background-color: brown;
   height: 250px;
   width: 250px;
-  margin-left: 500px;
+  margin-left: 250px;
 }
 #div3{
   background-color: brown;
   height: 250px;
   width: 250px;
-  margin-left: 750px;
+  margin-left: 500px;
 }
 #div4{
   background-color: brown;
   height: 250px;
   width: 250px;
-  margin-left: 1000px;
+  margin-left: 750px;
 }
