@@ -5,29 +5,28 @@ body{
 h2{
   background-color: brown;
   color: white;
-  text-align:center;
 }
 #div11{
   background-color: brown;
   height: 250px;
   width: 250px;
-  margin-left: 0px;
+  margin-left: 2px;
 }
 #div2{
   background-color: brown;
   height: 250px;
   width: 250px;
-  margin-left: 250px;
+  margin-left: 252px;
 }
 #div3{
   background-color: brown;
   height: 250px;
   width: 250px;
-  margin-left: 500px;
+  margin-left: 502px;
 }
 #div4{
   background-color: brown;
   height: 250px;
   width: 250px;
-  margin-left: 750px;
+  margin-left: 752px;
 }
